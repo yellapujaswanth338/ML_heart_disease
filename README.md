@@ -31,7 +31,7 @@ tune the decision threshold to trade precision against recall.
 .
 ├── data/
 │   └── heart.csv
-├── heart_disease_prediction.ipynb
+├── heart_disease.ipynb
 ├── requirements.txt
 └── README.md
 ```
